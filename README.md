@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 #### 🌱 The activities I did... (Major)
 - 전자공학과 안테나/RF응용실험실 학부 연구생 (2022.06 ~ 2023.01)
-<br/>(UNIST project : `Mu-negative 안테나를 이용한 초소형 비침습형 혈당센서 설계`)
+<br/>UNIST project : `실시간 생체신호 모니터링과 비대면 의료 서비스`
+<br/>한국전자파학회 하계종합학술대회 참석 (2022.08)
+<br/>한국전자파학회 추계학술대회 `Mu-negative 안테나를 이용한 초소형 비침습형 혈당센서 설계` 논문 공동저자 -2저자
 
 #### 🌱 The activities I did... (Minor)
 - 우리 FISA 클라우드 서비스 개발 4th (2024.12 ~ )

@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 - 우리 FISA 클라우드 서비스 개발 4th (2024.12 ~ )
 - USG 코딩오픈메타캠퍼스 플랫폼 비즈니스 과정 팀 프로젝트 경진대회 (2024.03)
 <br/>(대상 : 국내여행 및 숙소 예약 통합 플랫폼 서비스 - `감행; 감성여행을 감행하다 (FE)`)
+- USG 코딩오픈메타캠퍼스 플랫폼 비즈니스 부트캠프, 본과정 수료 (2023.03~2024.03)
 - 산학협력관 UOK LINC+ 사업단 빅데이터 센터 학부 연구생 (2023.10 ~ 2023.12)
 <br/>((주)세명소프트 project : `관광 특화 말뭉치 라벨링`)
 
 #### ⚡ Certification ...
-- SQLD
-- ADsP
+- SQLD (2024.09)
+- ADsP (2024.06)
 
 #### 💬 I’m currently learning ...
 <img alt="html" src ="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/> <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>

@@ -21,8 +21,11 @@
 <br>
 
 ### ❇️ Minor Activities
+- 🧩 **Comento - 로컬 AI 메이커스랩** (2025.08 ~ 2025.09)
 
 - 🧩 **우리 FIS 아카데미 4기 클라우드 서비스 개발** (2024.12 ~ 2025.06)
+
+- 🧩 **Certification**: `ADsP` (2024.06), `SQLD` (2024.09)
   
 - 🧩 **USG 오픈메타캠퍼스 팀 프로젝트 경진대회** (2024.03)  
   - 대상 수상: *감행 – 감성여행을 감행하다* (FE)
@@ -44,13 +47,7 @@
 
 <br>
 
-### ❇️ Etc.
 
-- 📧 **Contact**: amy8883@naver.com
-- 🧩 **Blog**: https://iamyuunzo.tistory.com/
-- 🧩 **Certification**: `ADsP` (2024.06), `SQLD` (2024.09)
-
-<br>
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=amy8883)](https://solved.ac/amy8883)

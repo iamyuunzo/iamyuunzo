@@ -9,8 +9,8 @@
 <br>
 
 ### ❇️ Minor Activities
-- 🧩 **ICT INNOHACK 2025 해커톤**  (25.08 ~ 25.09)
-  - [**다시, 봄 : 고령 인력 & 복지사 업무 자동화 tool**](https://github.com/INNOHACK2025)  (25.09)
+- 🧩 **ICT INNOHACK 2025 해커톤**  (25.11 ~ 25.11)
+  - [**다시, 봄 : 고령 인력 & 복지사 업무 자동화 tool**](https://github.com/INNOHACK2025)  (25.11 ~ )
 <br>
 
 - 🧩 **Comento - 로컬 AI 메이커스랩**  (25.08 ~ 25.09)

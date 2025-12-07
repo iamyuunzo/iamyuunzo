@@ -9,17 +9,21 @@
 <br>
 
 ### ❇️ Minor Activities
+- 🧩 **ICT INNOHACK 2025 해커톤**  (25.08 ~ 25.09)
+  - [**다시, 봄 : 고령 인력 & 복지사 업무 자동화 tool**](https://github.com/INNOHACK2025)  (25.09)
+<br>
+
 - 🧩 **Comento - 로컬 AI 메이커스랩**  (25.08 ~ 25.09)
-  - **Hi-Lens : 현대해상 대체투자2팀 보고서 요약 tool**  (25.09)
+  - [**Hi-Lens : 현대해상 대체투자2팀 보고서 요약 tool**](https://github.com/iamyuunzo/Hi-Lens)  (25.09)
 <br>
 
 - 🧩 **우리 FIS 아카데미 4기 클라우드 서비스 개발**  (24.12 ~ 25.06)
-  - **우리디자인 : 우리 FISA 디자인 시스템**  (25.02 ~ )
-  - **토킷 : 우리은행 예금 토큰 기반의 전자지갑 서비스**  (25.04 ~ 25.06)
+  - [**우리디자인 : 우리 FISA 디자인 시스템**](https://github.com/woori-design)  (25.02 ~ )
+  - [**토킷 : 우리은행 예금 토큰 기반의 전자지갑 서비스**](https://github.com/Team-Tokkit)  (25.04 ~ 25.06)
 <br>
   
 - 🧩 **USG 오픈메타캠퍼스 플랫폼 비즈니스 경진대회 (대상)**  (24.03)
-  - **감행 : 국내 항공 & 숙소 예약 서비스 통합 플랫폼**  (24.02 ~ 24.03)
+  - [**감행 : 국내 항공 & 숙소 예약 서비스 통합 플랫폼**](https://github.com/Gamhang)  (24.02 ~ 24.03)
 <br>
 
 - 🧑‍🔬 **빅데이터센터 학부 연구생**, UOK LINC+ 산학협력관  (23.10 ~ 23.12)  
@@ -35,12 +39,3 @@
 - 📄 **공동 제2저자**, 한국전자파학회 추계학술대회  (22.11)  
   - 논문 주제: `Mu-negative 안테나 기반 초소형 비침습 혈당 센서 설계`
   - 한국전자파학회 하계종합학술대회 참여  (22.08)
-
-<br>
-
-
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=amy8883)](https://solved.ac/amy8883)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyuunzo&layout=compact)
-

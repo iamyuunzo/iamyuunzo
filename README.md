@@ -4,11 +4,14 @@
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,react,mysql,java,python&theme=light&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,mysql,java,python&theme=light&perline=7)](https://skillicons.dev)
 
 <br>
 
 ### ❇️ Minor Activities
+- 🧩 **CMC (Central Makeus Challenge) - 1st BUG Dev (FE)**  (25.12 ~ 26.03)
+<br>
+
 - 🧩 **ICT INNOHACK 2025 해커톤**  (25.11 ~ 25.11)
   - [**다시, 봄 : 고령 인력 & 복지사 업무 자동화 tool**](https://github.com/INNOHACK2025)  (25.11 ~ )
 <br>

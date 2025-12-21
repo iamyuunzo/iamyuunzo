@@ -12,6 +12,10 @@
 - 🧩 **CMC (Central Makeus Challenge) - 1st BUG Dev (FE)**  (25.12 ~ 26.03)
 <br>
 
+- 🧩 **Scoop AI Hackathon: Seoul Bowl**  (25.12 ~ 25.12)
+  - [**Voyagio AI Travel Assistant : Autonomous AI Concierge with Blockchain Payments**](https://github.com/fastians/voyagio) (25.12)
+<br>
+
 - 🧩 **ICT INNOHACK 2025 해커톤**  (25.11 ~ 25.11)
   - [**다시, 봄 : 고령 인력 & 복지사 업무 자동화 tool**](https://github.com/INNOHACK2025)  (25.11 ~ )
 <br>

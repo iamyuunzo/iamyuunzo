@@ -9,7 +9,7 @@
 <br>
 
 ### ❇️ Minor Activities
-- 🧩 **CMC (Central Makeus Challenge) - 1st BUG Dev (FE)**  (25.12 ~ 26.03)
+- 🧩 **CMC (Central Makeus Challenge) - 1st BUG Dev FE (최우수상)**  (25.12 ~ 26.03)
   - [**AIQ : 멀티 AI의 관점을 한눈에 정리하여 구매 직전의 판단을 완성하는 쇼핑 판단 게이트웨이**](https://github.com/Team-AIQ) (26.03)
 <br>
 

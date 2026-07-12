@@ -4,7 +4,7 @@
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,mysql,java,python,c#&theme=light&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,js,react,mysql,java,python&theme=dark&perline=7)](https://skillicons.dev)
 
 <br>
 
